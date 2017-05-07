@@ -9,7 +9,8 @@
         "doctrine/orm": "^2.5",
         "container-interop/container-interop": "^1.1",
         "doctrine/dbal": "^2.5",
-        "doctrine/common": "^2.6"
+        "doctrine/common": "^2.6",
+        "doctrine/migrations": "^1.5"
     },
     "autoload": {
         "psr-4": {
